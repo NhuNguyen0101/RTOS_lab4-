@@ -34,7 +34,7 @@ void task1(){
   }
   i=i-1;
   if(i<0){
-    i=10;
+    i=9;
   }
 }
 void TIMER_ISR(void *pvParameters) {
